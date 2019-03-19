@@ -39,9 +39,9 @@ Also download **Gitbash** software and update email address and user name by giv
 ...After the Lunch Break...
 
 **Working on a 3D Printer for the first time**
-Picture of a 3D Printer 
+Picture of a 3D Printer ![3dprinter](3dprinter.jpg)
 
-
+This printer uses Polylactic acid filament (PLA)for printing objects with different colours, however only a single colour printing can be done at a time, 
 
 
 

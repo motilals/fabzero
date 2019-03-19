@@ -20,25 +20,29 @@ The maximum accuracy of this machine is 1/10 of a millimeter.
 
 **Safety precautions**:1) The operator should always carry the start/stop remote during operation 2) Special care should be taken not to wear loose clothing (including tie) during the operation of this machine. 3) Use of proper air and noise pollution mask is advisable during the operation of this machine.
 
-A mini bench saw and one scroll saw for general trimming of wood and other materials is also available in the Lab.
+A **mini bench saw and one scroll saw** for general trimming of wood and other materials is also available in the Lab.
 
-High pressure  water washer 
-![Washer high Pressure](washer.jpg)
-is used to washed off substrates and other unwanted residues of a finished product (3D printed objects)
+High pressure  water wash is used to washed off substrates and other unwanted residues of a finished product (3D printed objects)
 
-3.36 PM : Room No 1. : 
-Meet DGSHAPE SRM20 mini CNC machine. 
+3.36 PM : **Room No 1.** : 
+Meet **DGSHAPE SRM20 mini CNC machine**. 
 The machine has accuracy of 1/100 mm, while the diameter of smallest drill measures 0.25mm.
 Extra care should be taken while handling very small milling tips.
-A Vinyl cutter can also be used as a Plotter cum Stencil cutter for screen printing 
+
+A **Vinyl cutter** can also be used as a Plotter cum Stencil cutter for screen printing 
 The cutting tip exerts a max force of 80 grams 
-The Epilog Laser Fusion  M2 is a 75 watt co2 laser cutter which can be used for cutting, engraving and bending  wood, glass etc.
+
+The **Epilog Laser Fusion  M2** is a 75 watt co2 laser cutter which can be used for cutting, engraving and bending  wood, glass etc.
+
 Thin flammable materials, unknown material and material that produce flammable/ poisonous gases on heating should not be used with the laser cutter machine.
-A three stage filter is used while operating a laser printer for filtering hazardous material and gases.
+
+A **three stage filter** is used while operating a laser printer for filtering hazardous material and gases.
+
 The lab has three kinds of 3D printers
-Sindoh -3D Wox is a fused filament disposition type of 3D Printer, thermo plastic is used as printing material.
-There is also another type of 3D printer that uses UV curable resin as the printing material, this type of printer is also known as Stereo Lithography  3D Printers.
-The 3rd type of 3D printer a Strata Sys polyjet (inkjet) printer use UV curable resin and is capable of printing full colour objects.
-4.20 PM: Back to Training room 
+**Sindoh -3D Wox** is a fused filament disposition type of 3D Printer, thermo plastic is used as printing material.
+There is also another type of 3D printer that uses UV curable resin as the printing material, this type of printer is also known as **Stereo Lithography  3D Printers**.
+The 3rd type of 3D printer a **Strata Sys polyjet (inkjet) printer** use UV curable resin and is capable of printing full colour objects.
+
+4.20 PM: **Back to Training room** 
 Created account at git hub by login into  https://github.com/academany/fabzero
 Repositories to be uploaded at https://github.com/motilals
