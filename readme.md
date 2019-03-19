@@ -14,7 +14,7 @@ Responsibility of the user of Fablab:
 while working in the Fab lab one need to follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
 2.50 PM: ** Visit Fablab Room no 2:**	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu.
- Mr Sibu explain the working of **Large format CNC machine, Alpha (96X48) by ShopBot**. 
+ Mr Sibu explain the working of **Large format CNC machine**. ![Alpha (96X48) by ShopBot](https://github.com/motilals/fabzero/blob/master/cncbig.jpg"
 There are basically two types of fabrication process: Additive and Subtractive process, CNC machines are used for Subtractive process
 This CNC machine is a three axis milling machine which can work on wood, ply wood, composite materials, soft metal etc but not on steel and other hard metal.
 The maximum accuracy of this machine is 1/10 of a millimeter.
