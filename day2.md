@@ -50,7 +50,15 @@ The loose ends of the filament should not extrude from the opening of cartridge.
 
 After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the **Cartridge** menu on lcd screen available in the printer 
 (As seen in picture)
-![menu](3dm3nu.jpg)
+![menu](3dmenu.jpg)
+
+a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Curo**
+
+Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge.
+**First 3D printed object**
+*a filament clip*
+![clip](3d clip.jpg)
+
 
 
 
