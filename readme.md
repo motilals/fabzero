@@ -13,11 +13,12 @@ Responsibility of the user of Fablab:
 
 while working in the Fab lab one need to follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
-2.50 PM: **Visit Fablab Room no 2**	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu.
+2.50 PM: **Visit Fablab Room no 2**	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu. The trainees were divided into two groups, 
  Mr Sibu explain the working of **Large format CNC machine, Alpha (96X48) by ShopBot** ![Alpha (96X48) by ShopBot](cncbig.jpg)
 There are basically two types of fabrication process: Additive and Subtractive process, CNC machines are used for Subtractive process
 This CNC machine is a three axis milling machine which can work on wood, ply wood, composite materials, soft metal etc but not on steel and other hard metal.
 The maximum accuracy of this machine is 1/10 of a millimeter.
+
 **Safety precautions**:
 1) The operator should always carry the start/stop remote during operation 2) Special care should be taken not to wear loose clothing (including tie) during the operation of this machine. 3) Use of proper air and noise pollution mask is advisable during the operation of this machine.
 
@@ -25,7 +26,7 @@ The maximum accuracy of this machine is 1/10 of a millimeter.
 
 **A mini bench saw and one scroll saw** for general trimming of wood and other materials is also available in the Lab.
 
-3.36 PM : ** Visit FabLab Room No 1.  :**
+3.36 PM : **Visit FabLab Room No 1**
 Meet **DGSHAPE SRM20 mini CNC machine** 
 The machine has accuracy of 1/100 mm, while the diameter of smallest drill measures 0.25mm.
 Extra care should be taken while handling very small milling tips.
