@@ -39,7 +39,7 @@ Also download **Gitbash** software and update email address and user name by giv
 ...After the Lunch Break...
 
 **Working on a 3D Printer for the first time**
-Picture of a 3D Printer ![3dprinter](3dprinter.jpg)
+Picture of a 3D Printer 3DWOX by Sindoh 200 ![3dprinter](3dprinter.jpg)
 
 This printer uses Polylactic acid filament (PLA) for printing objects with different colours, however only a single colour printing can be done at a time 
 The filament is 1.75mm in diameter and a cartridge can hold 700 gram of filament
@@ -48,8 +48,9 @@ Filament should be handled with care so as not to stressed or bend it to avoid e
 
 The loose ends of the filament should not extrude from the opening of cartridge.
 
-
-
+After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the **Cartridge** menu on lcd screen available in the printer 
+(As seen in picture)
+![menu](3dm3nu.jpg)
 
 
 
