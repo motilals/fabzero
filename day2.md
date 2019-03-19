@@ -58,9 +58,19 @@ Due to constrain of time, we download a design file for creating a Clip which ca
 
 **First 3D printed object**
 *a filament clip*
-![clipfilament](3d clip.jpg)
+![clipfilament](3dclip.jpg)
 
+The base substrade had to be removed manually, some bigger designs can be printed without the base.
 
+The printer that we have used is wi fi enabled and the print command can be issued from any pc in the network by using the software provided by the manufacturer or alternatively by transfering the sliced file in G-code format directly to the printer by using a USB memory stick and use the print command from the lcd menu of the printer.
+
+The base plate may get heated up by around 60 degree centigrade, so care should be taken while removing it.
+
+Also, the debri collection chamber inside the printer need to be emptied on regular intervals.
+
+**Vinyl Cutter**
+
+*
 
 
 
