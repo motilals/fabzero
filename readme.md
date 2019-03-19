@@ -1,4 +1,4 @@
-**Fabzero at STPI Bubhaneswar**
+**Fabzero at STPI Bubhaneswar** by Laimayum Motilal Sharma
 
 **Day 1 : 18th March 2019**
 
