@@ -13,12 +13,13 @@ Responsibility of the user of Fablab:
 
 while working in the Fab lab one need to follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
-2.50 PM: ** Visit Fablab Room no 2:**	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu.
- Mr Sibu explain the working of **Large format CNC machine**. ![Alpha (96X48) by ShopBot](cncbig.jpg)
+2.50 PM: **Visit Fablab Room no 2**	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu.
+ Mr Sibu explain the working of **Large format CNC machine, Alpha (96X48) by ShopBot** ![Alpha (96X48) by ShopBot](cncbig.jpg)
 There are basically two types of fabrication process: Additive and Subtractive process, CNC machines are used for Subtractive process
 This CNC machine is a three axis milling machine which can work on wood, ply wood, composite materials, soft metal etc but not on steel and other hard metal.
 The maximum accuracy of this machine is 1/10 of a millimeter.
-Safety precautions:1) The operator should always carry the start/stop remote during operation 2) Special care should be taken not to wear loose clothing (including tie) during the operation of this machine. 3) Use of proper air and noise pollution mask is advisable during the operation of this machine.
+**Safety precautions**:
+1) The operator should always carry the start/stop remote during operation 2) Special care should be taken not to wear loose clothing (including tie) during the operation of this machine. 3) Use of proper air and noise pollution mask is advisable during the operation of this machine.
 
 **High pressure  water washer** is used to washed off substrates and other unwanted residues of a finished product (3d printed)
 
@@ -41,7 +42,7 @@ The lab has three kinds of 3D printers
 **Sindoh -3D Wox** is a fused filament disposition type of 3D Printer, thermo plastic is used as printing material.
 There is also another type of 3D printer that uses UV curable resin as the printing material, this type of printer is also known as **Stereo Lithography  3D Printers**.
 The 3rd type of 3D printer a **Strata Sys polyjet (inkjet) printer** use UV curable resin and is capable of printing full colour objects.
-
+**Electronics work station** Soldering station along with electronic components along with variable voltage power supplies along with testing equipments including digital osciloscope are available at the lab 
 4.20 PM: **Back to Training room** 
 Created account at git hub by login into  https://github.com/academany/fabzero
 Repositories to be uploaded at https://github.com/motilals
