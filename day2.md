@@ -73,7 +73,7 @@ Also, the debri collection chamber inside the printer need to be emptied on regu
 *Roland CAMM-i GS-24*
 ![Vinyl](img\vinylrol.jpg)
 
-Hands on will be done tommorow,
+Hands on for the Vinyl cutter will be done tommorow,
  learned loading the vinyl by adjusting the roller,  for accessibility of maximum area on the vinyl,since the position of two rollers will fix the margin of the cutting head. 
 
 The maximum width of vinyl roll is 62 cms.
