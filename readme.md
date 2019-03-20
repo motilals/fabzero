@@ -9,9 +9,8 @@ by Laimayum Motilal Sharma, Joint Director & Centre In charge, STPI Imphal
 
 Fabzero program is being organised at the Elite building of STPI Bhubaneshwar from 18th March 2019 to 5th April 2019.
 The program is being attended by technical team from STPI centres across the country. 
-The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Sibu from Kochi will be assisting the trainees during the program. The team has setup various Fab labs and have conducted various training programs across India and abroad.
+The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Sibu from Kochi. The team of experts from Fab Academy has setup various Fab labs and have conducted numerous training programs across India and abroad.
 
- 18th March 2019
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bubhaneswar kick started. 
 It is learned that STPI is ready to setup new Fablabs across the country if the respective State Government is ready to contribute 50% of the installation cost.
@@ -23,42 +22,10 @@ Fabzero is a precursor to the 6 months diploma program of Fablab. Hoping to lear
 **Responsibility of the user of Fablab**
 To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
-2.50 PM:	We are going to the newly setup Fab lab at the 1st Floor of (new)  STPI Bhubaneswar building  with our mentors Mr Francisco and Mr Sibu. The trainees were divided into two groups
-**Fablab Room no 2**: Mr Sibu explain the working of **Large format CNC machine, Alpha (96X48) by ShopBot**. ![alpha](cncbig.jpg)
-There are basically two types of fabrication process: Additive and Subtractive process, CNC machines are used for Subtractive process
-This CNC machine is a three axis milling machine which can work on wood, ply wood, composite materials, soft metal etc but not on steel and other hard metal.
-The maximum accuracy of this machine is 1/10 of a millimeter.
+**Documentation of activities & observations**
 
-**Safety precautions**:1) The operator should always carry the start/stop remote during operation 2) Special care should be taken not to wear loose clothing (including tie) during the operation of this machine. 3) Use of proper air and noise pollution mask is advisable during the operation of this machine.
+Download and install  **"Visual Studio Code"** and after that we install **Code Spell Checker**
 
-A **mini bench saw and one scroll saw** for general trimming of wood and other materials is also available in the Lab.
-
-High pressure  water wash is used to washed off substrates and other unwanted residues of a finished product (3D printed objects)
-
-3.36 PM : **Room No 1.** : 
-
-Meet **DGSHAPE SRM20 mini CNC machine**. 
-The machine has accuracy of 1/100 mm, while the diameter of smallest drill measures 0.25mm.
-Extra care should be taken while handling very small milling tips.
-
-A **Vinyl cutter** can also be used as a Plotter cum Stencil cutter for screen printing 
-The cutting tip exerts a max force of 80 grams 
-
-The **Epilog Laser Fusion  M2** is a 75 watt co2 laser cutter which can be used for cutting, engraving and bending  wood, glass etc.
-
-Thin flammable materials, unknown material and material that produce flammable/ poisonous gases on heating should not be used with the laser cutter machine.
-
-A **three stage filter** is used while operating a laser printer for filtering hazardous material and gases.
-
-The lab has three types of 3D printers
-**Sindoh -3D Wox** is a fused filament disposition type of 3D Printer, thermo plastic is used as printing material.
-**Stereo Lithography  3D Printers** There is also another type of 3D printer that uses UV curable resin as the printing material, this type of printer is also known as 
-**Strata Sys polyjet (inkjet) printer** is the 3rd type of 3D printer a  use UV curable resin and is capable of printing full colour objects.
-
-
-**Day 2**  -  19th March 2019
-
-The session for the day started at 10.00 AM. we were asked to download and install  **"Visual Studio Code"** and after that we install **Code Spell Checker**
 We also download and install **"Inkscape"** which is a 2D graphics design software along with **"Cura"** a software used for 3D Printing design. These are all free softwares. 
 
 The daily activities that were recorded in the notebooks were typed using "Visual Studio Code" and save it as a markdown file, I have recorded the activities of day one and save it as **day1.md** and uploaded it in the Repository folder of the github page. It was observed that my page was not displayed correctly in the website, latter,it was realised that   the file should be **readme.md**, so my day 1 entry is now renamed as "readme.md" 
