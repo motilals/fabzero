@@ -28,3 +28,6 @@ The printer that we have used is wi fi enabled and the print command can be issu
 The base plate may get heated up by around 60 degree centigrade, so care should be taken while removing it.
 
 Also, the debri collection chamber inside the printer need to be emptied on regular intervals.
+
+- [Home](readme.md)
+- [3D Printer](3DPrinter.md)
