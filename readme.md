@@ -1,7 +1,7 @@
 **Fabzero at STPI Bubhaneswar** 
 
 by Laimayum Motilal Sharma
-![Laimayum Motilal Sharma]()
+![Laimayum Motilal Sharma](passport.jpg)
 
 
 Fabzero program is being organised at the Elite building of STPI Bhubaneshwar from 18th March 2019 to 5th April 2019.
