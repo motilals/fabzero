@@ -19,7 +19,7 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 2. During and after the editing dont forget to save the changes (Ctrl +S), then  click on the "Source Control" button on the left hand side or press (Ctrl + Shift +G)
 3. then type a relevant meaningful message regarding the change in the "message box" i have typed 19th March 2019 and then 
 4. click on the **commit button** above which is denoted by a "tick sign"
-5. The last step to update the page for the Github web is to **push**, for this click on the "button with three dots" and select push. 
+5. The last step to update the page for the Github web is to **push**, for this click on the "button with three dots" and select **push** from drop down menu. 
 
 **To insert images on the Github pages**
 1. select pictures to upload
