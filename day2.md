@@ -69,7 +69,7 @@ The base plate may get heated up by around 60 degree centigrade, so care should 
 Also, the debri collection chamber inside the printer need to be emptied on regular intervals.
 
 **Vinyl Cutter**
-0
+
 *Roland CAMM-i GS-24*
 ![Vinyl](vinylrol.jpg)
 
