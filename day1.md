@@ -1,4 +1,4 @@
-day 1 : 18th March 2019
+**day 1** : 18th March 2019
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bubhaneswar kick started. 
 It is learned that STPI is ready to setup new Fablabs across the country if the respective State Government is ready to contribute 50% of the installation cost.
