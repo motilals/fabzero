@@ -15,7 +15,7 @@ It is necessary to carefully select the origin.
 Next step is to calculate the path and save the file and send it for printing to Roland CAMM-i GS-24
 
 Here is the result. 
-![Vinyl sticker](img\vinyl.jpg)
+![Vinyl sticker](vinyl.jpg)
 
 
 
