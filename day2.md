@@ -71,7 +71,7 @@ Also, the debri collection chamber inside the printer need to be emptied on regu
 **Vinyl Cutter**
 
 *Roland CAMM-i GS-24*
-![Vinyl](img\vinylrol.jpg)
+![Vinyl]
 
 Hands on for the Vinyl cutter will be done tommorow,
  learned loading the vinyl by adjusting the roller,  for accessibility of maximum area on the vinyl,since the position of two rollers will fix the margin of the cutting head. 
