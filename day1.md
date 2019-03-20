@@ -46,6 +46,4 @@ The lab has three kinds of 3D printers
 Created account at git hub by login into  https://github.com/academany/fabzero
 Repositories to be uploaded at https://github.com/motilals
 
-[Home](readme.md)
-[Day 2-](day2.md)
-[Day 3](day3.md)
+[Home *](readme.md)[ Day 2 * ](day2.md)[Day 3*](day3.md)

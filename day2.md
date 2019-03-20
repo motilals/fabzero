@@ -1,4 +1,4 @@
-**Day 2**   19th March 2019
+**Day 2**  -  19th March 2019
 
 The session for the day started at 10.00 AM. we were asked to download and install  **"Visual Studio Code"** and after that we install **Code Spell Checker**
 We also download and install **"Inkscape"** which is a 2D graphics design software along with **"Cura"** a software used for 3D Printing design. These are all free softwares. 
@@ -84,9 +84,7 @@ The rollers can be placed only at the points where there are white markings on t
 Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides
 
 
-[Home](readme.md)
-[Day 1](day1.md)
-[Day 3](day3.md)
+[Home](readme.md) [Day 1](day1.md) [Day 3](day3.md)
 
 
 
