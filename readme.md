@@ -13,22 +13,24 @@ The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Si
 
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bubhaneswar kick started. 
-It is learned that STPI is ready to setup new Fablabs across the country if the respective State Government is ready to contribute 50% of the installation cost.
+It is possible that STPI will setup new Fablabs across the country if the respective State Government is ready to contribute 50% of the investment
+
+Digital fabrication is considered as the third revolution that will create transformation in the society the way Internet and Communication has in the past. This technology will play an important role in creating sustainable development. 
 
 The aim of setting up of Fab lab is to expose people from all walks of life such as Startup entrepreneurs, inventors, innovators, students, artists and interested people, to the possibilities of digital fabrication techniques.
-One of the aim of Digital fabrication is also to reduce wastage of used articles, if we can create objects of everyday use which can be reassembled into multiple objects.
-Fabzero is a precursor to the 6 months diploma program of Fablab. Hoping to learn to make (almost) everything at the Fablab during this session.
+
+Fabzero program is a precursor to the 6 months diploma program of Fablab. Hoping to learn to make (almost) everything at the Fablab during this session.
 
 **Responsibility of the user of Fablab**
 To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
 **Documentation of activities & observations**
 
-Download and install  **"Visual Studio Code"** and after that we install **Code Spell Checker**
+*Download and install  **"Visual Studio Code"** along with **Code Spell Checker***
 
-We also download and install **"Inkscape"** which is a 2D graphics design software along with **"Cura"** a software used for 3D Printing design. These are all free softwares. 
 
-The daily activities that were recorded in the notebooks were typed using "Visual Studio Code" and save it as a markdown file, I have recorded the activities of day one and save it as **day1.md** and uploaded it in the Repository folder of the github page. It was observed that my page was not displayed correctly in the website, latter,it was realised that   the file should be **readme.md**, so my day 1 entry is now renamed as "readme.md" 
+
+The daily activities that were recorded in notebooks were typed using "Visual Studio Code" and save it as a markdown file, I have recorded the activities of day one and save it as **day1.md** and uploaded it in the Repository folder of the github page. It was observed that my page was not displayed correctly in the website, latter,it was realised that   the file should be **readme.md**, so my day 1 entry is now renamed as "readme.md" 
 For ease of working, it is required that a local copy or clone of the uploaded files in Github is created using the following steps.
 1. Open Visual Studio Code programme
 2. press **Ctrl+Shift+P**
