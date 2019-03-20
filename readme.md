@@ -1,6 +1,8 @@
 **Fabzero at STPI Bubhaneswar** 
 
-by Laimayum Motilal Sharma
+by Laimayum Motilal Sharma, Joint Director & Centre In charge, STPI Imphal
+
+
 ![Laimayum Motilal Sharma](passport.jpg)
 
 
