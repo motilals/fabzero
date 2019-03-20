@@ -15,17 +15,15 @@ It is necessary to carefully select the origin.
 Next step is to calculate the path and save the file and send it for printing to Roland CAMM-i GS-24
 
 Here is the result. 
+![Vinyl sticker](img\vinyl.jpg)
 
 
 
 
-**Loading the vinyl into the printer** 
+*Tips for Loading the vinyl into the printer*
 
 
-While loading the Vinyl 
-The maximum width of vinyl roll is 62 cms.
-
+*While loading the Vinyl(The maximum width of vinyl roll is 62 cms.)
 Care should be taken to align the vinyl roll parallel to the alignment markings on the cutter.
 The rollers can be placed only at the points where there are white markings on the guide 
-
-Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides
+Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides*
