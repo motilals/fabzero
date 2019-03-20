@@ -83,7 +83,9 @@ The rollers can be placed only at the points where there are white markings on t
 
 Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides
 
-
+[Home](readme.md)
+[Day 1](day1.md)
+[Day 3](day3.md)
 
 
 

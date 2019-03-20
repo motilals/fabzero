@@ -45,3 +45,6 @@ The lab has three kinds of 3D printers
 4.20 PM: **Back to Training room** 
 Created account at git hub by login into  https://github.com/academany/fabzero
 Repositories to be uploaded at https://github.com/motilals
+[Home](readme.md)
+[Day 2](day2.md)
+[Day 3](day3.md)
