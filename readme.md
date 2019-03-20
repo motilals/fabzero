@@ -15,9 +15,9 @@ Mr Francisco from Spain, Barcelona is a Civil Engineer by profession with expert
 
 The notes taken during the Febzero program are as follows:
 
-[Day 1 *](day1.md)
-[Day 2 *](day2.md)
-[Day 3 *](day3.md)
+- [Day 1](day1.md)
+- [Day 2](day2.md)
+- [Day 3](day3.md)
 
 
 
