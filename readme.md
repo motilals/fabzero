@@ -66,8 +66,8 @@ Also download **Gitbash** software and update email address and user name by giv
 
 
 
-- [Day 1](Vinylcutter.md)
-- [Day 2](3DPrinter.md)
+- [Vinyl Cutter](Vinylcutter.md)
+- [3D Printer](3DPrinter.md)
 
 
 
