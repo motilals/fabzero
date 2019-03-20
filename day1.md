@@ -2,7 +2,7 @@
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bubhaneswar kick started. 
 It is learned that STPI is ready to setup new Fablabs across the country if the respective State Government is ready to contribute 50% of the installation cost.
-Mr Francisco from Barcelona, Spain, explained the significance of Fablab to the trainers which consists of technical teams from STPI centres across the country.
+Mr Francisco explained the significance of Fablab to the trainers.
  The aim of setting up of Fab lab is to expose people from all walks of life such as Startup entrepreneurs, inventors, innovators, students, artists and interested people, to the possibilities of digital fabrication techniques.
 One of the aim of Digital fabrication is also to reduce wastage of used articles, if we can create objects of everyday use which can be reassembled into multiple objects.
 Fabzero is a precursor to the 6 months diploma program of Fablab. Hoping to learn to make (almost) everything at the Fablab during this session.
