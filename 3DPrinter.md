@@ -29,7 +29,10 @@ The base plate may get heated up by around 60 degree centigrade, so care should 
 
 Also, the debri collection chamber inside the printer need to be emptied on regular intervals.
 
+**Responsibility of the user of Fablab**
+To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
+
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
-- []
+- [Vinyl cutter](vinylcutter.md)
 - [documentation tips](documentation.md)

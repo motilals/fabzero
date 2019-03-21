@@ -27,6 +27,9 @@ Here is the result.
 Care should be taken to align the vinyl roll parallel to the alignment markings on the cutter.
 The rollers can be placed only at the points where there are white markings on the guide 
 Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides*
+
+**Responsibility of the user of Fablab**
+To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
 - [vinylcutter](vinylcutter.md)

@@ -20,8 +20,7 @@ The aim of setting up of Fab lab is to expose people from all walks of life such
 
 Fabzero program is a precursor to the 6 months diploma program of Fablab. Hoping to learn to make (almost) everything at the Fablab during this session.
 
-**Responsibility of the user of Fablab**
-To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
+
 
 - [3D Printer](3DPrinter.md)
 - [Vinyl cutter](vinylcutter.md)
