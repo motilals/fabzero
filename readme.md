@@ -1,4 +1,4 @@
-**Fabzero at STPI Bubhaneswar** 
+**Fabzero at STPI Bhubaneswar, India** 
 
 by Laimayum Motilal Sharma, Joint Director & Centre In charge, STPI Imphal
 
