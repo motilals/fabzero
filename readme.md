@@ -23,3 +23,6 @@ Fabzero program is a precursor to the 6 months diploma program of Fablab. Hoping
 **Responsibility of the user of Fablab**
 To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
+- [3D Printer](3DPrinter.md)
+- [vinylcutter](vinylcutter.md)
+- [documentation tips](documentation.md)
