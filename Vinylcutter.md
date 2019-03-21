@@ -30,4 +30,5 @@ Further, the rollers can be places at the edge of the vinyl roll by leaving atle
 
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
+- [vinylcutter](vinylcutter.md)
 - [documentation tips](documentation.md)
