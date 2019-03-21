@@ -27,7 +27,6 @@ Here is the result.
 Care should be taken to align the vinyl roll parallel to the alignment markings on the cutter.
 The rollers can be placed only at the points where there are white markings on the guide 
 Further, the rollers can be places at the edge of the vinyl roll by leaving atleast 2mm on both sides*
-
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
 - [vinylcutter](vinylcutter.md)
