@@ -31,3 +31,4 @@ Also, the debri collection chamber inside the printer need to be emptied on regu
 
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
+- [documentation tips](documentation.md)
