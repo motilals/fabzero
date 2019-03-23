@@ -36,3 +36,4 @@ To follow all safety instructions 2. At the end of the day, leave the laboratory
 - [3D Printer](3DPrinter.md)
 - [Vinyl cutter](vin.md)
 - [documentation tips](documentation.md)
+- [Electronic Design](design.md)

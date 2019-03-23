@@ -41,3 +41,4 @@ To follow all safety instructions 2. At the end of the day, leave the laboratory
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
 - [documentation tips](documentation.md)
+- [Electronic Design](design.md)
