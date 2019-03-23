@@ -23,5 +23,5 @@ Fabzero program is a precursor to the 6 months diploma program of Fablab. Hoping
 
 
 - [3D Printer](3DPrinter.md)
-- [Vinyl cutter](vinylcutter.md)
+- [Vinyl cutter](vin.md)
 - [documentation tips](documentation.md)

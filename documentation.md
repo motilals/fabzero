@@ -42,7 +42,8 @@ Also download **Gitbash** software and update email address and user name by giv
 
 
 
-- [Vinyl Cutter](Vinylcutter.md)
+- [Home](readme.md)
+- [Vinyl Cutter](vin.md)
 - [3D Printer](3DPrinter.md)
 - [documentation tips](documentation.md)
 
