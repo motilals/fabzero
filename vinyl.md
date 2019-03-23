@@ -8,7 +8,7 @@
 
 There are two ways of creating a sticker design, **Method 1- to create an original image in a graphic design software**, **Method 2- to create an image for sticker, from a photo or a sketch** 
 
-**method 1.** This method is familiar to almost everyone, one can use their favourite graphic design software, the free softwares such as **GIMP or Inkscape** is recomended.
+**method 1.** This method is familiar to almost everyone, one can use their favorite graphic design software, the free softwares such as **GIMP or Inkscape** is recommended.
 a simple word "FabZero" was created inside a document sized 150mm by 50mm with 600 dpi using **inkscape** and export it as a png  file 
 
 **method 2** 
