@@ -31,7 +31,6 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 6. Bring curser to the desired location within the text and type **![description of the image](file name.extension)**
 7. to effect the changes in the Github page follow step 3 to step 5 of previous paragraph.
 
-Have successfully inserted a picture of the Large format CNC Alpha (96X48) ny ShopBot in my day 1 page, using the above steps. more to follow.
 
 Also download **Gitbash** software and update email address and user name by giving the following commands
 **git config --global user.email "motilal.sarma@stpi.in"**
