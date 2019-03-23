@@ -13,7 +13,7 @@ After new filament cartridge is fitted manually inside the printer, the feed new
 (As seen in picture)
 ![menu](img/3dmenu.jpg)
 
-a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Curo**
+a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like ****
 
 Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge.
 
