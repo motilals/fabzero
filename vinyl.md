@@ -4,7 +4,7 @@
 ![Vinyl](img/vinylrol.jpg)
 
 
-**designing a sticker**
+**Designing a sticker**
 
 There are two ways of creating a sticker design, **Method 1- to create an original image in a graphic design software**, **Method 2- to create an image for sticker, from a photo or a sketch** 
 
@@ -22,7 +22,7 @@ a simple word "FabZero" was created inside a document sized 150mm by 50mm with 6
  - Export file in **.png** format
 
 
-
+**sending file to Roland GS24 Vinyl cutter**
 Next , open **fabmodules.org** (alternatively can be done though **mods.cba.mit.edu**)   
 - set Input format as image (.png), then select desired file as input, set output format as Roland Vinyl (.camm) , output force (g) as 80 and velocity cm/s as 20. Then, click "process" button and select "cut Vinyl" from the drop down menu. click "Calculate" to set the exact path of the cutter, Pressing the "Save" button will save the file in (.camm) format., which can then be send to the Roland GS-24 Vinyl cutter for cutting.
 
