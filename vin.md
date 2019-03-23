@@ -21,7 +21,7 @@ a simple word "FabZero" was created inside a document sized 150mm by 50mm with 6
  - Export file in **.png** format
 
 **sending file to Roland GS24 Vinyl cutter**
-Next , open **fabmodules.org** (alternatively can be done though **mods.cba.mit.edu**)   
+Next , open **fabmodules.org** (alternatively can be done though **mods.cba.mit.edu** refer [mill using mods](files/mm.pdf)   
 - set Input format as image (.png), then select desired file as input, set output format as Roland Vinyl (.camm) , output force (g) as 80 and velocity cm/s as 20. Then, click "process" button and select "cut Vinyl" from the drop down menu. click "Calculate" to set the exact path of the cutter, Pressing the "Save" button will save the file in (.camm) format., which can then be send to the Roland GS-24 Vinyl cutter for cutting.
 
 *It is necessary to carefully select the origin of the cutter head before starting the process and also ascertaining the appropriate pressure of the cutter*
