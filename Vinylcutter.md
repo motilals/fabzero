@@ -6,9 +6,22 @@
 
 **designing a sticker**
 
+There are two ways of creating a sticker design, **Method 1- to create an original image in a graphic design software**, **Method 2- to create an image for sticker, from a photo or a sketch** 
+
+**method 1.** This method is familiar to almost everyone, one can use their favourite graphic design software, the free softwares such as **GIMP or Inkscape** is recomended.
 a simple word "FabZero" was created inside a document sized 150mm by 50mm with 600 dpi using **inkscape** and export it as a png  file 
 
-Next , go to **fabmodules.org** and set Input format as image (.png), then select desired file as input, set output format as Roland Vinyl (.camm) , output force (g) as 80 and velocity cm/s as 20. Then, click "process" button and select "cut Vinyl" from the drop down menu. click "Calculate" to set the exact path of the cutter, Pressing the "Save" button will save the file in (.camm) format., which can then be send to the Roland GS-24 Vinyl cutter for cutting.
+**method 2** 
+- If the picture file is a sketch, have to first scan it in digital format such as  jpg
+- open file in **inkscape**
+- Set Image size (for me setting the document size through File-document properties, and then adjusting the image inside the document by holding Ctrl button to restrain the proportion is easier)
+- Select Image then go to Path -> Trace Bitmap (A vectorised black and white image is produced above the original image, (if you dont see original image move the b/W image), and delete the original.
+- Now, select remaining B/W image with **node** ![node](img/node tool.jpg)
+ tool
+
+
+
+Next , open **fabmodules.org** and set Input format as image (.png), then select desired file as input, set output format as Roland Vinyl (.camm) , output force (g) as 80 and velocity cm/s as 20. Then, click "process" button and select "cut Vinyl" from the drop down menu. click "Calculate" to set the exact path of the cutter, Pressing the "Save" button will save the file in (.camm) format., which can then be send to the Roland GS-24 Vinyl cutter for cutting.
 
 
 
@@ -19,7 +32,6 @@ Next , go to **fabmodules.org** and set Input format as image (.png), then selec
 
 
 *Tips for Loading the vinyl into the printer*
-
 
 
 *While loading the Vinyl(The maximum width of vinyl roll is 62 cms.)
