@@ -16,7 +16,7 @@ a simple word "FabZero" was created inside a document sized 150mm by 50mm with 6
 - open file in **inkscape**
 - Set Image size (for me setting the document size through File-document properties, and then adjusting the image inside the document by holding Ctrl button to restrain the proportion is easier)
 - Select Image then go to Path -> Trace Bitmap (A vectorised black and white image is produced above the original image, (if you dont see original image move the b/W image), and delete the original.
-- Now, select remaining B/W image with **node** ![node](img/node tool.jpg)
+- Now, select remaining B/W image with **node** ![node](img/node.jpg)
  tool
 
 
