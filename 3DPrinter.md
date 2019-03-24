@@ -13,9 +13,12 @@ After new filament cartridge is fitted manually inside the printer, the feed new
 (As seen in picture)
 ![menu](img/3dmenu.jpg)
 
-a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like ****
+a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Tinkercad** or **Fusion360**
+
 
 Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge.
+
+The printer that we have used is wi fi enabled and the print command can be issued from any pc in the network by using the software provided by the manufacturer or alternatively by transfering the sliced file in G-code format directly to the printer by using a USB memory stick and use the print command from the  menu on the LCD screen of the printer.
 
 **First 3D printed object**
 *a filament clip*
@@ -23,7 +26,7 @@ Due to constrain of time, we download a design file for creating a Clip which ca
 
 The base substrade had to be removed manually, some bigger designs can be printed without the base.
 
-The printer that we have used is wi fi enabled and the print command can be issued from any pc in the network by using the software provided by the manufacturer or alternatively by transfering the sliced file in G-code format directly to the printer by using a USB memory stick and use the print command from the lcd menu of the printer.
+
 
 The base plate may get heated up by around 60 degree centigrade, so care should be taken while removing it.
 
