@@ -15,7 +15,7 @@ The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Si
 After the launch of the FabZero, Bhubaneswar  by Dr. Omkar Rai,  Director General, Software Technology Parks of India (STPI) through video conferencing, the session kick started. It is heartening to know the possibility of STPI setting up new Fablabs across the country with the cooperation of  respective State Government.
 
 Digital fabrication is considered as the third revolution that will create transformation in the society with more impact then the  Internet and mobile communication systems had in the past. 
-The aim of setting up of Fab lab is to expose people from all walks of life such as Startup entrepreneurs, inventors, innovators, students, artists and all interested people, to the various possibilities of digital fabrication techniques in creating a sustainable future through collaborative innovation.
+The aim of setting up of Fab lab is to expose people from all walks of life such as startup entrepreneurs, inventors, innovators, students, artists and all interested people, to the various possibilities of digital fabrication techniques in creating a sustainable future through collaborative innovation.
 
 Fabzero program is a precursor to the 6 months diploma program of Fablab Academy. Hoping to learn to make (almost) everything at the Fablab during this session.
 
