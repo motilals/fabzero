@@ -7,9 +7,9 @@ by Laimayum Motilal Sharma, Joint Director & Centre in charge, STPI Imphal
 
 
 
-Fabzero program is being organised at the Elite building of STPI Bhubaneswar from 18th March 2019 to 5th April 2019.
-The program is attended by technical team from STPI centres across the country. 
-The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Sibu from Kochi. The team of experts from Fab Academy has setup various Fab labs and have conducted many training programs across India and abroad. Mr Fransisco also started Beach Lab, a mobile research and development Fab Lab in Digital fabrication and Synthetic biology.
+Fabzero program is being organised at the Elite building of Software Technology Parks of India, (STPI) Bhubaneswar, India from 18th March 2019 to 5th April 2019.
+The program is attended by technical teams from STPI centres across the country. 
+The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Sibu from Kochi. The team of experts from Fab Academy has setup various Fab labs and have conducted many training programs across India and abroad. Mr Fransisco also started **Beach Lab**, a mobile research and development Fab Lab in Digital fabrication and Synthetic biology.
 
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bhubaneswar kick started. 
