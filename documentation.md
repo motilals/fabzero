@@ -31,6 +31,18 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 6. Bring curser to the desired location within the text and type **![description of the image](file name.extension)**
 7. to effect the changes in the Github page follow step 3 to step 5 of previous paragraph.
 
+**to create a new page**
+1. move mouse over the Name of Folder on the **Explorer** dropdown (left side of Visual studio code)
+2. select the **New File** icon (dont forget to give an appropriate and short  name with .md extension)
+
+**to create a new file** (mandatory to create a minimum of two file one for storing images used in the pages and the other for storing relevant working sample files created for job works)
+1. follow step one above
+2. select **New Folder** icon
+
+**syntax for inserting page Hyperlinks**
+**[description of page](foldername/filename.md)**
+
+*Tip: do not forget to 'save' changes and go to "Source control", (Ctrl+Shift+G) and commit changes (after giving a relevant descriptive message), before pushing the file for upload.*
 
 Also download **Gitbash** software and update email address and user name by giving the following commands
 **git config --global user.email "motilal.sarma@stpi.in"**
