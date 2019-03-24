@@ -7,7 +7,7 @@ The filament is 1.75mm in diameter and a cartridge can hold 700 gram of filament
 The filament has to be tightly wound, inside the cartridge.
 Filament should be handled with care so as not to stressed or bend it to avoid even slight deformities in the filament, any part with deformities may be cut off before feeding inside the printer. Make sure not to cut off long strips as the sensor attached to the Cartridge will not report the correct length of remaining filament.
 
-The loose ends of the filament should not extrude from the opening of cartridge.
+Also, while loading the cartridge, the loose ends of the filament should not extrude from the opening of cartridge.
 
 After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the **Cartridge** menu on LCD screen available in the printer 
 
