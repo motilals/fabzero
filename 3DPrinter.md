@@ -24,11 +24,9 @@ The printer that we have used is wi fi enabled and the print command can be issu
 *a filament clip*
 ![clipfilament](img/3dclip.jpg)
 
-The base substrade had to be removed manually, some bigger designs can be printed without the base.
+The base plate may get heated up by around 60 degree centigrade, so care should be taken while removing it using the Spatula provided for the purpose. 
 
-
-
-The base plate may get heated up by around 60 degree centigrade, so care should be taken while removing it.
+The base substrade, which was created to hold the object firmly to the base plate had to be removed manually , some bigger designs can be printed without the base.
 
 Also, the debri collection chamber inside the printer need to be emptied on regular intervals.
 
