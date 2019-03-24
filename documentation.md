@@ -35,15 +35,13 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 1. move mouse over the Name of Folder on the **Explorer** dropdown (left side of Visual studio code)
 2. select the **New File** icon (dont forget to give an appropriate and short  name with .md extension)
 
-**to create a new file** (mandatory to create a minimum of two file one for storing images used in the pages and the other for storing relevant working sample files created for job works)
-1. follow step one above
-2. select **New Folder** icon
-
-**syntax for inserting page Hyperlinks**
+*syntax for inserting page Hyperlinks**
 **[[description of page](foldername/filename.md)](foldername/filename.md)**
 *note if the file is not inside a folder within folder, path (foldername/) is not required*
 
-*Tip: do not forget to 'save' changes and go to "Source control", (Ctrl+Shift+G) and commit changes (after giving a relevant descriptive message), before pushing the file for upload.*
+-*mandatory to create a minimum of two Folder one for storing images used in the pages and the other for storing relevant working sample files created for job works*
+
+-*do not forget to 'save' changes and go to "Source control", (Ctrl+Shift+G) and commit changes (after giving a relevant descriptive message), before pushing the file for upload.*
 
 Also download **Gitbash** software and update email address and user name by giving the following commands
 **git config --global user.email "motilal.sarma@stpi.in"**
