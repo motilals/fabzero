@@ -43,7 +43,7 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 
 -*do not forget to 'save' changes and go to "Source control", (Ctrl+Shift+G) and commit changes (after giving a relevant descriptive message), before pushing the file for upload.*
 
-Also download **Gitbash** software and update email address and user name by giving the following commands
+Also download **Gitbash** software and update email address and name by giving the following commands
 **git config --global user.email "motilal.sarma@stpi.in"**
 **git config --global user.name "Laimayum Motilal Sharma"**
 
