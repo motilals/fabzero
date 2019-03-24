@@ -13,7 +13,7 @@ After new filament cartridge is fitted manually inside the printer, the feed new
 (As seen in picture)
 ![menu](img/3dmenu.jpg)
 
-a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Tinkercad** or beginner or **Fusion360** for precision design or **Blender 2.8** for organic modeling.
+a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Tinkercad** for beginner or **Fusion360** for precision design or **Blender 2.8** for organic modeling. They are all Free softwares.
 
 
 Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge (while storing).
@@ -34,6 +34,8 @@ Also, the debri collection chamber inside the printer need to be emptied on regu
 
 **Responsibility of the user of Fablab**
 To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
+
+Designing of new Model and printing to follow soon..
 
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
