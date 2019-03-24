@@ -40,7 +40,7 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 2. select **New Folder** icon
 
 **syntax for inserting page Hyperlinks**
-**[description of page(foldername/filename.md)](foldername/filename.md)**
+**['[description of page](foldername/filename.md)'](foldername/filename.md)**
 *note if the file is not inside a folder within folder, path (foldername/) is not required*
 
 *Tip: do not forget to 'save' changes and go to "Source control", (Ctrl+Shift+G) and commit changes (after giving a relevant descriptive message), before pushing the file for upload.*
