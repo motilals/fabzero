@@ -18,7 +18,9 @@ During change of Cartridge or if the printing stop midway due to any reason,  it
 a few design files for 3D printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Freecad**, Other softwares are **Tinkercad** for beginner or **Fusion360** for precision design or **Blender 2.8** for organic modeling. They are all Free softwares.
 
 
-Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge (while storing).
+Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge (during storage or transport). the original sti file can be assessed here [Clip file for 3D print](files/clip.sti)
+
+The gcode file for sending to 3DWOX printer as [clip in gcode]
 
 The printer that we have used is wi fi enabled and the print command can be issued from any pc in the network by using the software provided by the manufacturer or alternatively by transfering the sliced file in G-code format directly to the printer by using a USB memory stick and use the print command from the  menu on the LCD screen of the printer.
 
