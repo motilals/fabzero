@@ -45,7 +45,7 @@ Now i have a backup of my page in a local folder, the files can now be assessed 
 
 Also download **Gitbash** software and update email address and user name by giving the following commands
 **git config --global user.email "motilal.sarma@stpi.in"**
-**git config --global user.name "Motilals""**
+**git config --global user.name "Laimayum Motilal Sharma"**
 
 
 

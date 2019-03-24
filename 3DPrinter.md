@@ -9,14 +9,13 @@ Filament should be handled with care so as not to stressed or bend it to avoid e
 
 The loose ends of the filament should not extrude from the opening of cartridge.
 
-After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the **Cartridge** menu on lcd screen available in the printer 
+After new filament cartridge is fitted manually inside the printer, the feed new cartridge command can be assessed by selecting the **Cartridge** menu on LCD screen available in the printer 
 
-During change of Cartridge, it is compulsary to heat up the nozzle first, by using **Extrude** command.
-
+During change of Cartridge or if the printing stop midway due to any reason,  it is compulsary to heat up the nozzle first to loosen the filament, by using **Extrude** command from the 3DWOX monitor
 (As seen in picture)
 ![menu](img/3dmenu.jpg)
 
-a few design files for 3d printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Tinkercad** for beginner or **Fusion360** for precision design or **Blender 2.8** for organic modeling. They are all Free softwares.
+a few design files for 3D printing are readily available in the website like **thingiverse.com** for testing, we can create our own designs for printing by using free software like **Freecad**, Other softwares are **Tinkercad** for beginner or **Fusion360** for precision design or **Blender 2.8** for organic modeling. They are all Free softwares.
 
 
 Due to constrain of time, we download a design file for creating a Clip which can be use to prevent unwinding of 1.75mm PLA filament inside the cartridge (while storing).
