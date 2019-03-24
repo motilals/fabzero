@@ -14,7 +14,7 @@ The trainees are being mentored by Mr Francisco from Spain, Barcelona and Mr. Si
 
 After the launch of the training program by the Director General of Software Technology Parks of India through video conferencing, the Fabzero at STPI Bhubaneswar kick started. 
 It is now possible that STPI will setup new Fablabs across the country with the cooperation of  respective State Government.
-Digital fabrication is considered as the third revolution that will create transformation in the society with more impact then the  Internet and mobile communication systems has in the past. 
+Digital fabrication is considered as the third revolution that will create transformation in the society with more impact then the  Internet and mobile communication systems had in the past. 
 
 The aim of setting up of Fab lab is to expose people from all walks of life such as Startup entrepreneurs, inventors, innovators, students, artists and all interested people, to the various possibilities of digital fabrication techniques in creating a sustainable future through collaborative innovation.
 
