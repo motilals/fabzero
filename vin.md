@@ -37,7 +37,8 @@ Here is the result.
 ![Vinyl sticker](img/vinyl.jpg)
 
 
-Planning to cut this logo [Fablab logo]9in three colours.
+Planning to cut this logo [Fablab logo](files/logo.png) in three colours.
+
 **Responsibility of the user of Fablab**
 To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 - [Home](readme.md)
