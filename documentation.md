@@ -1,6 +1,6 @@
 **Documentation of activities & observations during the Fab Zero program**
 
-*Download and install  **"Visual Studio Code"** along with **Code Spell Checker***
+*Download and install  **"Visual Studio Code"** along with **Code Spell Checker***`
 
 The daily activities that were recorded in notebooks were typed using "Visual Studio Code" and save it as a markdown file, I have recorded the activities of day one and save it as **day1.md** and uploaded it in the Repository folder of the github page. It was observed that my page was not displayed correctly in the website, latter,it was realised that   the file should be **readme.md**, so my "day1.md" entry is now renamed as "readme.md". My Github page now displays correctly.
 
