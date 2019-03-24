@@ -3,7 +3,7 @@
 by Laimayum Motilal Sharma, Joint Director & Centre in charge, STPI Imphal
 
 
-![Laimayum Motilal Sharma](img/passport.jpg)
+![Laimayum Motilal Sharma](img/selfieupload.jpg)
 
 
 
