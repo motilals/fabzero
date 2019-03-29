@@ -74,15 +74,15 @@ Refer Pic, 1. Select component type , 2. Select component in schema 3.select foo
 - Open "fabmodules.org" 
 - 1. Input format > Image png > select image (either one of svg files) 
 - 2. Output > Roland mill (.rml) 
-- 3. Process > PCB traces (1/64) - for PCB trace and (1/32) for Edge Cuts, *to change corresponding milling bids for the two different jobs*
+- 3. Process > PCB traces (1/64) - for PCB trace and (1/32) for Edge Cuts, (do not forget to change corresponding milling bids for the two different jobs)
 - 4. Output machine > SRM20 
-- 5. other autofilled valued may be accepted, to set x0, y0and z0 to 0 respectively otherwise there will be  error! mill head will be offset from PCB
+- 5. Other autofilled values may be accepted, but important to set x0, y0and z0 to 0s respectively otherwise there will be  error! mill head will be offset from PCB
 - 6. Process > calculate (machine path created)
 - 7. Save file for sending to Roland SRM20 milling machine
 
 ![machine path](img/mpath.jpg)
 
-Repeat the above process for the Edge cut/ trace file.
+*Repeat the above process for the Edge cut/ trace file.*
 
 **Sending the PCB design for milling**
 
