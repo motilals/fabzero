@@ -37,7 +37,8 @@ The printer is wi fi enabled,  print command can be issued  using the software p
 1) To follow all safety instructions 2. At the end of the day, leave the laboratory  and the equipments (clean) just the way you found it 3. To document your experience at the Lab so that others might find it useful.
 
 Designing of new Model and printing to follow soon..
-
+![Hanger for Hot air blower](img/hanger.jpg)
+![ Hot air blower](img/hotair.jpg)
 - [Home](readme.md)
 - [3D Printer](3DPrinter.md)
 - [Vinyl cutter](vin.md)
