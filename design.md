@@ -103,14 +103,20 @@ Open "Vpanel for SRM20" software interface
 
 *repeat process for the Edge cut file but remember to change milling bid, and dont forget to set the new Z axis Zero*.
 
-Now that we have the PCB,![PCB](img/pcb.jpg) lets go to the Soldering station.
+Now that we have the PCB, 
+![PCB](img/pcb.jpg) 
 
-Make a list of components required for the circuit and paste corresponding component against the list
+**lets go to the Soldering station.**
+![Work Station](img/station.jpg)
 
+- Make a list of components required for the circuit and paste corresponding component against the list using double sided tape.
+![Component List](img/component.jpg)
 
+- Solder the Microcontroller first
+- then smallest components first
 
-
-
+Here is the end product 
+![Circuit](img/circuit.jpg)
 
 
 - 
