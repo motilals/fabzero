@@ -101,7 +101,7 @@ Open "Vpanel for SRM20" software interface
 - 7. Press 'cut' button, then select the rml trace file saved earlier using fabmodules.org
 - 8. All the best!
 
-*repeat process for the Edge cut file but remember to change milling bid, and dont forget to set the new Z axis Zero*.
+*repeat process for the Edge cut file but remember to change milling bid to 1/32 inch, and dont forget to set the new Z axis Zero*.
 
 Now that we have the PCB, 
 ![PCB](img/pcb.jpg) 
