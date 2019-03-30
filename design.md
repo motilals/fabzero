@@ -110,6 +110,7 @@ Now that we have the PCB,
 ![Work Station](img/station.jpg)
 
 - Make a list of components required for the circuit and paste corresponding component against the list using double sided tape.
+
 ![Component List](img/component.jpg)
 
 - Solder the Microcontroller first
