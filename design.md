@@ -56,6 +56,7 @@ Refer Pic, 1. Select component type , 2. Select component in schema 3.select foo
 - To draw PCD edge (*select Edge.cut layer and use 'Add graphic line' tool*) 
 - Line width of edge is set as 0.8 mm
 
+
 ![PCB design cleared by design check](img/pcbok.jpg)
 
 **Preparing 'PCB trace'  and  'edge cut' files in SVG format**

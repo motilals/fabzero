@@ -1,5 +1,6 @@
 
-**Working on a 3D Printer for the first time**
+<font size="+2">**Working on a 3D Printer for the first time**</font>
+
 Picture of a 3D Printer 3DWOX by Sindoh 200 ![3dprinter](img/3dprinter.jpg)
 
 - This printer uses Polylactic acid filament (PLA) , however only a single colour cartridge at a time 
