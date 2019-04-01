@@ -1,7 +1,7 @@
 
 <font size="+2">**Working on a 3D Printer for the first time**</font>
 
-Picture of a 3D Printer 3DWOX by Sindoh 200 ![3dprinter](img/3dprinter.jpg)
+Picture of a 3D Printer 3DWOX 200 by Sindoh  ![3dprinter](img/3dprinter.jpg)
 
 - This printer uses Polylactic acid filament (PLA) , however only a single colour cartridge at a time 
 - The filament is 1.75mm in diameter and a cartridge can hold 700 gram of filament
