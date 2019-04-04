@@ -1,5 +1,7 @@
 **Design and Fabrication of a programable electronic circuit**
-The process will start with designing the electronic circuit and developing its PCB diagram by using **Kicad** software and then send it for milling. Then, component soldering and programming followed by testing.
+
+
+The process  start with designing the Schematic circuit and developing its PCB diagram, then send it for milling. Then, component soldering and programming of Microprocessor, followed by testing.
 
 The first step is to draw a schematic design of the circuit to fabricate using a pcb design software such as **KICAD** 
  ![a schematic design of circuit](img/schema.jpg)
@@ -51,9 +53,11 @@ Refer Pic, 1. Select component type , 2. Select component in schema 3.select foo
 ![PCB updated from Schematic](img/pcbr.jpg)
 - During route tracking, set track width min. 0.25mm and clearance min. 0.4mm *(File> Board Setup > Net Classes> clearance & track width)*
 
+*Time for the Zig Saw Puzzle* 
+
 - After routing, do not forget to 'perform design rule check'
 - Do not forget to copper fill empty zone areas (add fill zones) &
-- To draw PCD edge (*select Edge.cut layer and use 'Add graphic line' tool*) 
+- To draw PCB edge (*select Edge.cut layer and use 'Add graphic line' tool*) 
 - Line width of edge is set as 0.8 mm
 
 
@@ -77,7 +81,7 @@ Refer Pic, 1. Select component type , 2. Select component in schema 3.select foo
 - 2. Output > Roland mill (.rml) 
 - 3. Process > PCB traces (1/64) - for PCB trace and (1/32) for Edge Cuts, (do not forget to change corresponding milling bids for the two different jobs)
 - 4. Output machine > SRM20 
-- 5. Other autofilled values may be accepted, but important to set x0, y0and z0 to 0s respectively otherwise there will be  error! mill head will be offset from PCB
+- 5. Other auto filled values may be accepted, *but important to set x0, y0and z0 to 0s respectively otherwise there will be  error! mill head will be offset from PCB*
 - 6. Process > calculate (machine path created)
 - 7. Save file for sending to Roland SRM20 milling machine
 
@@ -91,7 +95,7 @@ Open "Vpanel for SRM20" software interface
 
 ![Vpanel for SRM20](img/vpanel.jpg)
 
-- 1. Fix PCB to be milled down on a perfectly flat sacrificial bed, using a double sided tape, make sure the PCB is perfectly leveled
+- 1. Fix PCB to be milled down on a perfectly flat sacrificial bed, using a double sided tape, make sure the PCB is perfectly leveled.
 
 - 2. First set Zero Point, the point on the pcb where the mill head should start operation
 - 3. For setting XY axis  zero, move the mill head using the control buttons (+x, _x and _y, +y) then press **XY button** under **Set origin point**.
@@ -114,11 +118,12 @@ Now that we have the PCB,
 
 ![Component List](img/component.jpg)
 
-- Solder the Microcontroller first
+- Solder the Micro controller first
 - then smallest components first
 
 Here is the end product 
-![Circuit](img/circuit.jpg)
+![Circuit](img/circuit.jpg) By seer oversight, one of the LED i have chosen is found to be an infrared LED, could see it blinking in a mobile phone camera. Fransisco, suggested that the circuit should be made to control the air conditioning cassette in the Lab.
+
 
 
 - 
