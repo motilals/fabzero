@@ -1,7 +1,7 @@
 **Design and Fabrication of a programable electronic circuit**
 
 
-The process  start with designing the Schematic circuit and developing its PCB diagram, then send it for milling. Then, component soldering and programming of Microprocessor, followed by testing.
+The process  start with designing the Schematic circuit and developing its PCB diagram, then send it for milling. Then, component soldering, testing and programming of Microprocessor.
 
 The first step is to draw a schematic design of the circuit to fabricate using a pcb design software such as **KICAD** 
  ![a schematic design of circuit](img/schema.jpg)
@@ -124,6 +124,11 @@ Now that we have the PCB,
 Here is the end product 
 ![Circuit](img/circuit.jpg) By seer oversight, one of the LED i have chosen is found to be an infrared LED, could see it blinking in a mobile phone camera. Fransisco, suggested that the circuit should be made to control the air conditioning cassette in the Lab.
 
+On Testing my circuit using ' Hello World Program" it is found Ok. 
+
+For programming a microcontroller a programmer is required, here is a link to fabricate a "USBtiny programmer circuit. *http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html*
+
+During the course of the Fabzero program, i  manage to make a USB tiny programmer as a final project. 
 
 
 - 

@@ -18,7 +18,7 @@ The aim of setting up of Fab lab is to expose people from all walks of life such
 
 Fabzero program is a precursor to the 6 months diploma program of Fablab Academy. Hoping to learn to make (almost) everything at the Fablab during this session.
 
-
+![FAbzero](img/slide.jpg)
 
 - [3D Printer](3DPrinter.md)
 - [Vinyl cutter](vin.md)
